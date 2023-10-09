@@ -9,3 +9,4 @@ Use TIF or PNG format for the image stack. The pores should be white (1) on the 
 
 Cite the work: _**Kadyrov, R.I., 2023. Multiple cubes growth algorithms for simple REV determination on 3D binary images. Scientific Visualization.**_
 
+Donate BTC: bc1qsm5zkhj67eys4frf76ve5kx93929dv2wv8n8wzs8kne3ncwyf9rs39qky6
